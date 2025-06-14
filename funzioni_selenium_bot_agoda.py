@@ -34,8 +34,32 @@ def click_cookie_button(driver):
     
 
 
-
-
-
-
-
+# Funzioni utilizzate dal bot selenium.
+def click_avanti_button(driver):
+    """
+    Questa funzione si occupa di andare alla pagina successiva
+    """    
+    try:
+        # Metodo di  accettazione 2
+        WebDriverWait(driver,10).until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button#paginationNext"))).click()
+        print("Avanti cliccato metodo 1")
+        return 
+    except:
+        pass
+    
+    try:
+        # Metodo di accettazione 3
+        WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.XPATH, "//span[text()='Next']"))).click()
+        print("Avanti cliccato metodo 2")
+        return 
+    except:
+        pass
+    
+    try:
+        # Metodo di accettazione 3
+        WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.XPATH, "//span[text()='Successiva']"))).click()
+        print("Avanti cliccato metodo 3")
+        return 
+    except:
+        pass
+    
