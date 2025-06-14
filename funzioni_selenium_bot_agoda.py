@@ -12,7 +12,7 @@ def click_cookie_button(driver):
     """
     try:
         # Metodo di accettazione 1
-        WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.XPATH, "//button[text()='Accetto']"))).click()
+        WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.XPATH, "//button[text()='OK']"))).click()
         print("Cookie accettati metodo 1")
         return 
     except:
@@ -20,11 +20,23 @@ def click_cookie_button(driver):
     
     try:
         # Metodo di  accettazione 2
-        WebDriverWait(driver,10).until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button#onetrust-accept-btn-handler"))).click()
+        WebDriverWait(driver,10).until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button.BtnPair__RejectBtn"))).click()
         print("Cookie accettati metodo 2")
         return 
     except:
         pass
+    
+    try:
+        # Metodo di accettazione 1
+        WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.XPATH, "//button[text()='Dismiss']"))).click()
+        print("Cookie accettati metodo 1")
+        return 
+    except:
+        pass
+    
+
+
+
 
 
 
