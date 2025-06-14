@@ -6,9 +6,7 @@ from selenium.webdriver.common.by import By
 # Funzioni utilizzate dal bot selenium.
 def click_cookie_button(driver):
     """
-    Questa funzione si occupa di accettare i cookies quando si fa il log-in per instagram.  
-    Siccome in data 06/12/2023 ho riscontrato problemi con il metodo di  accettazione 3, inizialemente l'unico, ho
-    implementato questa funzione in modo che possa gestire questo problema.
+    Questa funzione si occupa di accettare i cookies quando si accede ad agoda
     """
     try:
         # Metodo di accettazione 1
