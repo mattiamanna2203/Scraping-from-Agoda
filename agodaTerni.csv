@@ -1,0 +1,91 @@
+,titolo,recensione_voto_numerico,recensione_voto_parola,numero_recensioni,date,permanenza,prezzo,distanza_centro,indirizzo,valutazione
+0,Hotel Valentino,"9,0",Eccezionale,2 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",183 €,,"Terni, Terni ",4
+1,Hotel Garden Terni,"7,9",Ottimo,505 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",138 €,,"Terni, Terni ",4
+2,Hotel Michelangelo Palace & SPA,"8,0",Fantastico,718 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",174 €,,"Terni, Terni ",4
+3,Classic Hotel Tulipano,"7,6",Ottimo,453 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",98 €,,"Terni, Terni ",3
+4,Hotel De Paris,"8,1",Fantastico,11 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",69 €,,"Terni, Terni ",3
+5,Cospea B&B,"9,6",Eccezionale,1 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",55 €,,"Terni, Terni ",3
+6,Vallantica Resort & SPA,"8,7",Fantastico,263 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",206 €,,"San Gemini, San Gemini ",4
+7,Hotel Narnia,"9,5",Eccezionale,6 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",74 €,,"Narni, Narni ",3
+8,Agriturismo Tenuta Filippi,"8,9",Fantastico,254 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",123 €,,"Narni, Narni ",3
+9,Nonna Anita Palace Narni,"8,8",Fantastico,1 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",190 €,,"Narni, Narni ",4
+10,Hotel Federico II,"8,5",Fantastico,1.148 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",159 €,,"Terni, Terni ",3
+11,Terra Umbra Hotel,"8,0",Fantastico,1 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",101 €,,"Narni, Narni ",4
+12,Asso Residence Narni,"8,3",Fantastico,220 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",102 €,,"Narni, Narni ",3
+13,Asso Residence,"8,3",Fantastico,1.407 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",79 €,,"Terni, Terni ",3
+14,Domus Umbra,"8,3",Fantastico,131 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",183 €,,"Terni, Terni ",5
+15,Stazione di Posta San Gemini,"10,0",Eccezionale,1 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",90 €,,"San Gemini, San Gemini ",3
+16,Fattoria Didattica La Collina Incantata,"8,2",Fantastico,169 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",97 €,,"Narni, Narni ",4
+17,Appartamenti Il Cerqueto 2,"8,4",Fantastico,160 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",74 €,,"Terni, Terni ",5
+18,La Vecchia Stalla B&B,"9,1",Eccezionale,95 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",102 €,,"Narni, Narni ",3
+19,L' Antico Casale,"9,4",Eccezionale,347 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",94 €,,"Terni, Terni ",5
+20,Residence Viviverde,"8,9",Fantastico,643 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",76 €,,"Terni, Terni ",4
+21,La Sosta B&B,"8,9",Fantastico,170 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",80 €,,"Stroncone, Stroncone ",3
+22,Belvedere Valenza,"7,9",Ottimo,15 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",97 €,,"Terni, Terni ",3
+23,Il Pozzo Country House,"9,0",Eccezionale,423 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",95 €,,"Terni, Terni ",5
+24,San Gemini Palace,"9,2",Eccezionale,242 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",199 €,,"San Gemini, San Gemini ",5
+25,La Casa Rosa,"8,6",Fantastico,348 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",111 €,,"Terni, Terni ",4
+26,Terni In Centro,"7,7",Ottimo,52 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",124 €,,"Terni, Terni ",3
+27,San Casciano,"9,2",Eccezionale,123 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",106 €,,"Narni, Narni ",4
+28,Alle Torri,"8,4",Fantastico,136 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",122 €,,"Terni, Terni ",4
+29,Il Giardino di Venere,"9,6",Eccezionale,1 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",74 €,,"Terni, Terni ",3
+30,Bed and Breakfast San Valentino,"7,7",Ottimo,48 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",99 €,,"Terni, Terni ",3
+31,La Casa nel Borgo,"9,6",Eccezionale,35 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",120 €,,"Terni, Terni ",3
+32,La Severa 2,"8,4",Fantastico,11 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",96 €,,"Terni, Terni ",4
+33,Via Roma,"9,4",Eccezionale,77 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",84 €,,"Terni, Terni ",3
+34,IL TEATRO ALLOGGI,"8,9",Fantastico,114 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",93 €,,"Terni, Terni ",4
+35,b&b Casa Regina,"9,1",Eccezionale,67 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",120 €,,"Stroncone, Stroncone ",2
+36,Tana per gli ospiti,"9,0",Eccezionale,68 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",81 €,,"Terni, Terni ",5
+37,Authentic Villa Surrounded by Nature,"9,6",Eccezionale,91 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",110 €,,"Terni, Terni ",5
+38,Grand Hotel San Gemini I UNA Esperienze,"10,0",Eccezionale,2 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",162 €,,"San Gemini, San Gemini ",4
+39,La casa di Alan,"8,2",Fantastico,251 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",80 €,,"Terni, Terni ",3
+40,Casa nel Verde,"8,1",Fantastico,142 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",59 €,,"Terni, Terni ",4
+41,ççç Holiday Properties Terni Central ççç (ccc Holiday Properties Terni Central ccc),"8,3",Fantastico,83 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",111 €,,"Terni, Terni ",4
+42,CasaFè tra sogno e realtà (CasaFe tra sogno e realta),"9,6",Eccezionale,106 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",132 €,,"Narni, Narni ",4
+43,Asso Residence Ospedale,"8,9",Fantastico,1.300 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",89 €,,"Terni, Terni ",3
+44,Rosy Bed&Breakfast,"9,3",Eccezionale,328 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",77 €,,"Terni, Terni ",4
+45,M&M’s Home,"10,0",Eccezionale,1 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",85 €,,"Terni, Terni ",3
+46,Bice house,"8,9",Fantastico,19 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",144 €,,"Terni, Terni ",5
+47,Dolce Nera B&B,"8,8",Fantastico,195 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",80 €,,"Narni, Narni ",3
+48,Sangemini Home,"7,9",Ottimo,64 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",75 €,,"San Gemini, San Gemini ",3
+49,Mamma Giulia,"9,6",Eccezionale,1 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",65 €,,"Stroncone, Stroncone ",3
+50,Umbriahouse,"9,7",Eccezionale,66 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",129 €,,"Terni, Terni ",5
+51,Loft di Benedetta,"9,5",Eccezionale,52 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",1.014 €,,"Narni, Narni ",5
+52,Casale Viridi - nel fresco delle colline Umbre,"9,0",Eccezionale,806 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",100 €,,"Narni, Narni ",4
+53,A L'Aquila per un sogno,"10,0",Eccezionale,1 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",111 €,,"Terni, Terni ",3
+54,Asso Residence Centro,"9,2",Eccezionale,1 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",81 €,,"Terni, Terni ",3
+55,Lu Renge,"8,2",Fantastico,36 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",131 €,,"Narni, Narni ",4
+56,White,"8,8",Fantastico,223 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",67 €,,"Terni, Terni ",3
+57,G&Gapartment,"7,9",Ottimo,91 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",129 €,,"Terni, Terni ",4
+58,A casa di Alma,"9,4",Eccezionale,106 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",81 €,,"Terni, Terni ",3
+59,Marmore Charming House,"9,5",Eccezionale,450 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",122 €,,"Terni, Terni ",4
+60,Cozy 55-m2 flat close to the countryside in Narni,"8,6",Fantastico,49 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",109 €,,"Narni, Narni ",5
+61,La Severa,"9,5",Eccezionale,49 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",94 €,,"Terni, Terni ",5
+62,Acqua Marmore,"9,0",Eccezionale,81 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",125 €,,"Terni, Terni ",4
+63,Appartamenti Natura e Terra Marmore,"9,1",Eccezionale,130 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",113 €,,"Terni, Terni ",4
+64,Luce Marmore,"9,1",Eccezionale,45 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",162 €,,"Terni, Terni ",4
+65,Aria Marmore,"9,3",Eccezionale,36 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",153 €,,"Terni, Terni ",4
+66,Agriturismo Madre Terra,"8,8",Fantastico,89 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",138 €,,"Narni, Narni ",5
+67,Welcome home,"9,6",Eccezionale,56 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",87 €,,"Terni, Terni ",4
+68,La casa di Bianca,"9,3",Eccezionale,35 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",126 €,,"Terni, Terni ",3
+69,La casa di Emma,"9,4",Eccezionale,88 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",94 €,,"Terni, Terni ",4
+70,Asso Residence Stazione,"8,1",Fantastico,58 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",94 €,,"Terni, Terni ",3
+71,Salute Apartments,"8,9",Fantastico,123 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",103 €,,"Terni, Terni ",5
+72,B&B Angolo Verde,"9,6",Eccezionale,1 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",69 €,,"Terni, Terni ",3
+73,Bilocale degli Innamorati,"8,9",Fantastico,56 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",107 €,,"Terni, Terni ",4
+74,Dal Podestà (Dal Podesta),"9,8",Eccezionale,73 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",108 €,,"San Gemini, San Gemini ",3
+75,SognoNarni,"9,1",Eccezionale,103 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",117 €,,"Narni, Narni ",3
+76,Palmira House - delizioso bilocale for two,"9,8",Eccezionale,109 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",94 €,,"Terni, Terni ",4
+77,"Casa Susanna - posizione centralissima superservita, tranquilla, appena fuori ZTL parcheggio libero (Casa Susanna - delizioso piano terra, centralissimo, superservito, tranquillo, appena fuori ZTL parc)","8,9",Fantastico,44 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",310 €,,"Terni, Terni ",4
+78,L'amoruccio,"9,5",Eccezionale,64 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",148 €,,"Terni, Terni ",4
+79,B&B Home XIX,"9,4",Eccezionale,351 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",103 €,,"Narni, Narni ",3
+80,Alloggio tra Terni e Narni,"9,5",Eccezionale,19 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",128 €,,"Terni, Terni ",3
+81,Le Gatte,"9,6",Eccezionale,23 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",153 €,,"Narni, Narni ",4
+82,La casa di Umberto,"9,5",Eccezionale,50 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",126 €,,"Terni, Terni ",3
+83,La Casa di Cesi,"9,1",Eccezionale,21 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",81 €,,"Terni, Terni ",4
+84,Lo Scorcio Marmore,"9,4",Eccezionale,50 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",153 €,,"Terni, Terni ",4
+85,Domus Narnia,"8,5",Fantastico,165 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",78 €,,"Narni, Narni ",3
+86,Narni.Umbria,"9,1",Eccezionale,23 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",73 €,,"Narni, Narni ",3
+87,Le Camere di Ettore,"9,1",Eccezionale,99 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",79 €,,"Terni, Terni ",3
+88,Fresco e Colorato Appartamentino in Narni Scalo,"8,7",Fantastico,20 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",73 €,,"Narni, Narni ",3
+89,Civico 100,"8,7",Fantastico,47 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",72 €,,"Terni, Terni ",2
